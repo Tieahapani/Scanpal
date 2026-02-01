@@ -21,7 +21,6 @@ ScanPal automates receipt management from capture to analysis. The application s
 ### Intelligent Organization System
 - Creates vendor-specific compartments on first scan
 - Routes subsequent receipts to existing compartments automatically
-- **Example**: First Target receipt creates "Target" compartment; future Target receipts file automatically
 - Eliminates manual sorting and folder management
 
 ### Expense Analytics
@@ -35,4 +34,3 @@ ScanPal automates receipt management from capture to analysis. The application s
 - Receipt data stored locally using **Isar database**
 - Complete offline functionality after initial setup
 - Privacy-focused design with on-device storage
-- Fast search and retrieval capabilities
