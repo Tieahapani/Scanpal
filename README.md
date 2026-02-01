@@ -34,3 +34,8 @@ ScanPal automates receipt management from capture to analysis. The application s
 - Receipt data stored locally using **Isar database**
 - Complete offline functionality after initial setup
 - Privacy-focused design with on-device storage
+
+### Here is the link to the demo video 
+- https://youtube.com/shorts/UhJmMfEUKM0?feature=share
+  
+
